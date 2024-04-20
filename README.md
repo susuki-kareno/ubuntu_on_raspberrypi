@@ -1,6 +1,6 @@
 # How to install Ubuntu Server to Raspberry Pi
 ## Abstract
-This is a memorandum on installing Ubuntu Server to Raspberry Pi in headless mode.  
+This is a memorandum on installing Ubuntu Server to Raspberry Pi.  
 ## Targets
 - Ubuntu Server 22.04.4 LTS
 - Raspberry pi 3 model B
@@ -37,7 +37,7 @@ This is a memorandum on installing Ubuntu Server to Raspberry Pi in headless mod
 5. Click *"Edit the settings"* button on the *"Use OF customizetion?"* dialog.
 6. Edit your custom setteings.
 	- General
-		- Host name (excample:*myraspi*)
+		- Host name
 		- User name and password
 		- Wi-Fi settings
 			- SSID
@@ -62,7 +62,7 @@ This is a memorandum on installing Ubuntu Server to Raspberry Pi in headless mod
 12. Exit *Raspberry Pi Imager* by click the window close button.
 ## Boot Ubuntu Server on Raspberry pi
 1. Set the SD Memory card to your Raspberry Pi module.
-2. Connect LAN cable wher not use Wi-Fi.
+2. Connect LAN cable when not use Wi-Fi.
 3. Turn on your Raspberry Pi module.
 4. Have fun!
 
